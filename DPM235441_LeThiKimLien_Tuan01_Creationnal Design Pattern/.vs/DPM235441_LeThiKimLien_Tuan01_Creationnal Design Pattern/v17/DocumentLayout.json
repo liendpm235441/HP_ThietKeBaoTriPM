@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\DPM235441_LeThiKimLien_Tuan01_Creationnal Design Pattern\\",
-  "Documents": [],
+  "WorkspaceRootPath": "H:\\HK1_26_27\\HP_ThietKeBaoTriPM\\DPM235441_LeThiKimLien_Tuan01_Creationnal Design Pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D19B5D10-5B5F-42E3-923A-16DC07CE7398}|DPM235441_LeThiKimLien_Tuan01_Factory_DP\\DPM235441_LeThiKimLien_Tuan01_Factory_DP.csproj|h:\\hk1_26_27\\hp_thietkebaotripm\\dpm235441_lethikimlien_tuan01_creationnal design pattern\\dpm235441_lethikimlien_tuan01_factory_dp\\code.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D19B5D10-5B5F-42E3-923A-16DC07CE7398}|DPM235441_LeThiKimLien_Tuan01_Factory_DP\\DPM235441_LeThiKimLien_Tuan01_Factory_DP.csproj|solutionrelative:dpm235441_lethikimlien_tuan01_factory_dp\\code.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,6 +51,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "code.cs",
+              "DocumentMoniker": "H:\\HK1_26_27\\HP_ThietKeBaoTriPM\\DPM235441_LeThiKimLien_Tuan01_Creationnal Design Pattern\\DPM235441_LeThiKimLien_Tuan01_Factory_DP\\code.cs",
+              "RelativeDocumentMoniker": "DPM235441_LeThiKimLien_Tuan01_Factory_DP\\code.cs",
+              "ToolTip": "H:\\HK1_26_27\\HP_ThietKeBaoTriPM\\DPM235441_LeThiKimLien_Tuan01_Creationnal Design Pattern\\DPM235441_LeThiKimLien_Tuan01_Factory_DP\\code.cs",
+              "RelativeToolTip": "DPM235441_LeThiKimLien_Tuan01_Factory_DP\\code.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T08:11:51.555Z",
+              "EditorCaption": ""
             }
           ]
         }
