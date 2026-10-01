@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DPM235441_LeThiKimLien_Tuan01_Abstract_DP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b092a15f8758896abc903ea43546cd4c852558c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02ae8b9a5558cb526279b2228c334111bb0af63e")]
 [assembly: System.Reflection.AssemblyProductAttribute("DPM235441_LeThiKimLien_Tuan01_Abstract_DP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DPM235441_LeThiKimLien_Tuan01_Abstract_DP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

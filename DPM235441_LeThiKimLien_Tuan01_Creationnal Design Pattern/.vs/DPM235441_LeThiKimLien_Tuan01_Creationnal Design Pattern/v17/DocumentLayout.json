@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "H:\\HK1_26_27\\HP_ThietKeBaoTriPM\\DPM235441_LeThiKimLien_Tuan01_Creationnal Design Pattern\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17F051AE-DD21-4096-B898-D7A4348DC316}|DPM235441_LeThiKimLien_Tuan01_Factory_Real_NhanVien_DP\\DPM235441_LeThiKimLien_Tuan01_Factory_Real_NhanVien_DP.csproj|h:\\hk1_26_27\\hp_thietkebaotripm\\dpm235441_lethikimlien_tuan01_creationnal design pattern\\dpm235441_lethikimlien_tuan01_factory_real_nhanvien_dp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F051AE-DD21-4096-B898-D7A4348DC316}|DPM235441_LeThiKimLien_Tuan01_Factory_Real_NhanVien_DP\\DPM235441_LeThiKimLien_Tuan01_Factory_Real_NhanVien_DP.csproj|solutionrelative:dpm235441_lethikimlien_tuan01_factory_real_nhanvien_dp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334A564F-E277-4F3C-83BA-13D0E784378D}|DPM235441_LeThiKimLien_Tuan01_Builder_Real_NhanVien_DP\\DPM235441_LeThiKimLien_Tuan01_Builder_Real_NhanVien_DP.csproj|h:\\hk1_26_27\\hp_thietkebaotripm\\dpm235441_lethikimlien_tuan01_creationnal design pattern\\dpm235441_lethikimlien_tuan01_builder_real_nhanvien_dp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334A564F-E277-4F3C-83BA-13D0E784378D}|DPM235441_LeThiKimLien_Tuan01_Builder_Real_NhanVien_DP\\DPM235441_LeThiKimLien_Tuan01_Builder_Real_NhanVien_DP.csproj|solutionrelative:dpm235441_lethikimlien_tuan01_builder_real_nhanvien_dp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,6 +55,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\HK1_26_27\\HP_ThietKeBaoTriPM\\DPM235441_LeThiKimLien_Tuan01_Creationnal Design Pattern\\DPM235441_LeThiKimLien_Tuan01_Builder_Real_NhanVien_DP\\Program.cs",
+              "RelativeDocumentMoniker": "DPM235441_LeThiKimLien_Tuan01_Builder_Real_NhanVien_DP\\Program.cs",
+              "ToolTip": "H:\\HK1_26_27\\HP_ThietKeBaoTriPM\\DPM235441_LeThiKimLien_Tuan01_Creationnal Design Pattern\\DPM235441_LeThiKimLien_Tuan01_Builder_Real_NhanVien_DP\\Program.cs",
+              "RelativeToolTip": "DPM235441_LeThiKimLien_Tuan01_Builder_Real_NhanVien_DP\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T07:05:19.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\HK1_26_27\\HP_ThietKeBaoTriPM\\DPM235441_LeThiKimLien_Tuan01_Creationnal Design Pattern\\DPM235441_LeThiKimLien_Tuan01_Factory_Real_NhanVien_DP\\Program.cs",
+              "RelativeDocumentMoniker": "DPM235441_LeThiKimLien_Tuan01_Factory_Real_NhanVien_DP\\Program.cs",
+              "ToolTip": "H:\\HK1_26_27\\HP_ThietKeBaoTriPM\\DPM235441_LeThiKimLien_Tuan01_Creationnal Design Pattern\\DPM235441_LeThiKimLien_Tuan01_Factory_Real_NhanVien_DP\\Program.cs",
+              "RelativeToolTip": "DPM235441_LeThiKimLien_Tuan01_Factory_Real_NhanVien_DP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T07:04:46.308Z",
+              "EditorCaption": ""
             }
           ]
         }
