@@ -1,4 +1,4 @@
-namespace ComposingMethods_ReplaceTempwithQuery
+namespace ComposingMethods_ReplaceMethodwithMethodObject
 {
     public class Before
     {
@@ -16,4 +16,3 @@ namespace ComposingMethods_ReplaceTempwithQuery
         }
     }
 }
-

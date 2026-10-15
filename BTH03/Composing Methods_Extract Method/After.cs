@@ -1,7 +1,11 @@
-namespace ComposingMethods_ExtractMethod
+void PrintOwing()
 {
-    public class After
-    {
-    }
+    this.PrintBanner();
+    this.PrintDetails();
 }
 
+void PrintDetails()
+{
+    Console.WriteLine("name: " + this.name);
+    Console.WriteLine("amount: " + this.GetOutstanding());
+}

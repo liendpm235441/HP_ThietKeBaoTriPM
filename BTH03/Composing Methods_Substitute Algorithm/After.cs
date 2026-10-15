@@ -1,4 +1,7 @@
-namespace ComposingMethods_SplitTemporaryVariable
+using System;
+using System.Collections.Generic;
+
+namespace ComposingMethods_SubstituteAlgorithm
 {
     public class After
     {
@@ -18,4 +21,3 @@ namespace ComposingMethods_SplitTemporaryVariable
         }
     }
 }
-

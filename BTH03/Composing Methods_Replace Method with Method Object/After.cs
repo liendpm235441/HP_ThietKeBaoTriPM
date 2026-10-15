@@ -1,4 +1,4 @@
-namespace ComposingMethods_ReplaceTempwithQuery
+namespace ComposingMethods_ReplaceMethodwithMethodObject
 {
     public class After
     {
@@ -19,8 +19,7 @@ namespace ComposingMethods_ReplaceTempwithQuery
 
             public PriceCalculator(Order order)
             {
-                // Copy relevant information from the
-                // order object.
+                // Copy relevant information from the order object.
             }
 
             public double Compute()
@@ -31,4 +30,3 @@ namespace ComposingMethods_ReplaceTempwithQuery
         }
     }
 }
-

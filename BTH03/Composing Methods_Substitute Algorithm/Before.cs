@@ -1,4 +1,6 @@
-namespace ComposingMethods_SplitTemporaryVariable
+using System;
+
+namespace ComposingMethods_SubstituteAlgorithm
 {
     public class Before
     {
@@ -23,4 +25,3 @@ namespace ComposingMethods_SplitTemporaryVariable
         }
     }
 }
-
