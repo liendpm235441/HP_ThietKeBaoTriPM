@@ -8,4 +8,3 @@ namespace OrganizingData_EncapsulateField
         }
     }
 }
-

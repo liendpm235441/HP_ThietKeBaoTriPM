@@ -1,9 +1,12 @@
-namespace OrganizingData_ReplaceArrayWithObject
+namespace OrganizingData_ReplaceArraywithObject
 {
     public class Before
     {
-        string[] row = new string[2];
-        row[0] = "Liverpool";
-row[1] = "15";
+        void Example()
+        {
+            string[] row = new string[2];
+            row[0] = "Liverpool";
+            row[1] = "15";
+        }
     }
 }

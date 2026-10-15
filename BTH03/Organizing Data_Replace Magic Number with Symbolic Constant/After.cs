@@ -10,4 +10,3 @@ namespace OrganizingData_ReplaceMagicNumberwithSymbolicConstant
         }
     }
 }
-

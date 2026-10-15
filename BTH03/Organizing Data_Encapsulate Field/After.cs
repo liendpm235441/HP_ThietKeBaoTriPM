@@ -14,4 +14,3 @@ namespace OrganizingData_EncapsulateField
         }
     }
 }
-

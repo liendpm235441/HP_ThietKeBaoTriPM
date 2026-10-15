@@ -1,12 +1,18 @@
-public class Before
+using System;
+
+namespace MovingFeaturesbetweenObjects_IntroduceForeignMethod
 {
-    class Report
+    public class Before
     {
-        // ...
-        void SendReport()
+        class Report
         {
-            DateTime nextDay = previousEnd.AddDays(1);
             // ...
+            void SendReport()
+            {
+                DateTime previousEnd = DateTime.Now;
+                DateTime nextDay = previousEnd.AddDays(1);
+                // ...
+            }
         }
     }
 }

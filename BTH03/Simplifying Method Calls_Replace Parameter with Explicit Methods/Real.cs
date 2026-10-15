@@ -5,10 +5,10 @@ namespace SimplifyingMethodCalls_ReplaceParameterwithExplicitMethods
 {
     /// <summary>
     /// Real example: Apply Replace Parameter with Explicit Methods
-    /// to code inspired by Cuahang_Nongduoc (frmBanLe / setting giá trị theo tên)
+    /// to code from Cuahang_Nongduoc (frmBanLe / frmBanSi - set giá trị theo tên)
     /// 
-    /// BEFORE: 1 method nhận parameter "name" rồi if-else gán giá trị
-    /// AFTER : tách thành các method riêng rõ ràng (SetDonGia, SetSoLuong, ...)
+    /// BEFORE: 1 method SetValue(string name, ...) dùng if theo tên parameter
+    /// AFTER : tách thành các method rõ ràng SetDonGia(), SetSoLuong(), SetThanhTien()...
     /// </summary>
     public class Real
     {
@@ -42,6 +42,7 @@ namespace SimplifyingMethodCalls_ReplaceParameterwithExplicitMethods
                 numTongTien.Value = value;
                 return;
             }
+            // Assert.Fail() hoặc throw
         }
         */
 

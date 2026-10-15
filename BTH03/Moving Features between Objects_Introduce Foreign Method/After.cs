@@ -1,17 +1,23 @@
-public class After
+using System;
+
+namespace MovingFeaturesbetweenObjects_IntroduceForeignMethod
 {
-    class Report
+    public class After
     {
-        // ...
-        void SendReport()
+        class Report
         {
-            DateTime nextDay = NextDay(previousEnd);
             // ...
-        }
-        private static DateTime NextDay(DateTime date)
-        {
-            return date.AddDays(1);
+            void SendReport()
+            {
+                DateTime previousEnd = DateTime.Now;
+                DateTime nextDay = NextDay(previousEnd);
+                // ...
+            }
+
+            private static DateTime NextDay(DateTime date)
+            {
+                return date.AddDays(1);
+            }
         }
     }
-
 }

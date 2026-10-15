@@ -10,6 +10,7 @@ namespace OrganizingData_SelfEncapsulateField
             {
                 get { return low; }
             }
+
             int High
             {
                 get { return high; }
@@ -22,4 +23,3 @@ namespace OrganizingData_SelfEncapsulateField
         }
     }
 }
-
